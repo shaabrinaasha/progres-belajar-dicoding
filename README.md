@@ -20,4 +20,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 ## Forked
-Since this is forked I as contributor can just edit whatever
+Salah ! shabrinan yang forked atuh
