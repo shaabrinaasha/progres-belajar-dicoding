@@ -21,3 +21,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 ## Forked
 Since this is forked I as contributor can just edit whatever
+
+## Code Review
+Membahas kode bersama for knowledge, clean code, approval
